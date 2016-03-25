@@ -939,7 +939,7 @@
 		"wide"	 "580"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "8"
+		"MaxDeathNotices" "4"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "14"
 		"LineSpacing"	  "0"
