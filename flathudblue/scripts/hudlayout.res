@@ -748,7 +748,7 @@
 		"wide" 		"200"
 		"tall" 		"45"
 		"priority" 	"35"
-}
+	}
 	
 	BuildingStatus_Spy
 	{
@@ -849,8 +849,8 @@
 	HudFlashlight
 	{
 		"fieldName" "HudFlashlight"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"xpos"	"16"
 		"ypos"	"370"
 		"wide"	"102"
@@ -865,16 +865,16 @@
 
 	HudDamageIndicator
 	{
-//		"fieldName" "HudDamageIndicator"
-//		"visible" "1"
-//		"enabled" "1"
-//		"MinimumWidth" "10"
-//		"MaximumWidth" "10"		
-//		"StartRadius" "80"
-//		"EndRadius" "80"
-//		"MinimumHeight" "30"
-//		"MaximumHeight" "60"
-//		"MinimumTime" "1" 
+		"fieldName" "HudDamageIndicator"
+		"visible" "0"
+		"enabled" "0"
+		"MinimumWidth" "10"
+		"MaximumWidth" "10"		
+		"StartRadius" "80"
+		"EndRadius" "80"
+		"MinimumHeight" "30"
+		"MaximumHeight" "60"
+		"MinimumTime" "1" 
 	}
 
 	HudCommentary
@@ -911,8 +911,8 @@
 	HudZoom
 	{
 		"fieldName" "HudZoom"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"Circle1Radius" "66"
 		"Circle2Radius"	"74"
 		"DashGap"	"16"
@@ -939,7 +939,7 @@
 		"wide"	 "580"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "8"
+		"MaxDeathNotices" "4"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "14"
 		"LineSpacing"	  "0"
@@ -962,8 +962,8 @@
 	HudVehicle
 	{
 		"fieldName" "HudVehicle"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -989,8 +989,8 @@
 	HudTrain
 	{
 		"fieldName" "HudTrain"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -1062,8 +1062,8 @@
 	HudGeiger
 	{
 		"fieldName" "HudGeiger"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -1071,8 +1071,8 @@
 	HUDQuickInfo
 	{
 		"fieldName" "HUDQuickInfo"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -1088,8 +1088,8 @@
 	HudAnimationInfo
 	{
 		"fieldName" "HudAnimationInfo"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -1113,8 +1113,8 @@
 	HudPredictionDump
 	{
 		"fieldName" "HudPredictionDump"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"wide"	 "1280"
 		"tall"	 "1024"
 	}
@@ -1123,8 +1123,8 @@
 	HudLocation
 	{
 		"fieldName" "HudLocation"
-		"visible"	"1"
-		"enabled"	"1"
+		"visible"	"0"
+		"enabled"	"0"
 		"xpos"		"16"
 		"ypos"		"112"
 		"wide"		"96"
